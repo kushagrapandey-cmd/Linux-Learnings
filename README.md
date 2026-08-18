@@ -27,8 +27,8 @@ This repository is my personal Linux syllabus tracker. I will use it to record m
 - [ ] Use `man` and `--help` to explore commands
 
 ### Notes
-- Add a short summary of what you learned today here.
-- Example: "Learned the difference between relative and absolute paths and practiced `pwd`, `ls`, and `cd` in a nested directory structure."
+- 2026-08-18: Set up the Linux learning tracker and verified the repo structure. Reviewed the purpose of a syllabus tracker and how to keep notes organized by phase.
+- Learned that a clean tracking file is useful for recording commands, progress, and future review notes.
 
 ---
 
@@ -134,16 +134,16 @@ This repository is my personal Linux syllabus tracker. I will use it to record m
 Use this section to write short, focused notes each day.
 
 ### Today
-- Date:
-- Topic:
-- What I learned:
-- Commands practiced:
-- Questions / next steps:
+- Date: 2026-08-18
+- Topic: Linux learning tracker setup and command-line foundations
+- What I learned: Created a structured syllabus tracker, organized the phases of my Linux journey, and confirmed how to sync notes into the repo. Reviewed the value of keeping daily Linux notes in one place.
+- Commands practiced: `pwd`, `ls`, `git status`, `git add`, `git commit`, `git push`
+- Questions / next steps: Continue building command fluency with shell navigation and file operations.
 
 ### Recent Progress
-- 
-- 
-- 
+- 2026-08-18: Set up the README as a Linux syllabus tracker and synced it to GitHub.
+- 2026-08-18: Organized learning phases for commands, file management, permissions, scripting, and monitoring.
+- 2026-08-18: Confirmed the repo is ready for daily progress updates.
 
 ---
 
